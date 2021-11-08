@@ -1,3 +1,4 @@
 你好
 https://github.com/xushijide/xushijidecangku.git
 克隆推送
+commit 记录索引状态（冲突1）
